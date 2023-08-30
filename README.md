@@ -87,7 +87,7 @@ see this structure:
 .
 ├── alembic.ini
 └── migrations
-    ├── README
+    ├── READMEtr
     ├── env.py
     ├── script.py.mako
     └── versions
